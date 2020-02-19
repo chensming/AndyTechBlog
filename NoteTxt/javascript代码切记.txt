@@ -1,0 +1,12 @@
+默认是黑色的很难看，记得rgb改一下
+.cm-s-inner .cm-property { color: rgb(0, 0, 0); }
+
+改为
+草绿色
+.cm-s-inner .cm-property { color: rgb(17, 170, 124) }
+
+蓝色
+.cm-s-inner .cm-property { color: rgb(30, 184, 211); }
+
+
+记得md文件写好后导出的html不要格式化，可能格式化后会不整齐.
