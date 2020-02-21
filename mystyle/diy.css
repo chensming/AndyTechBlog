@@ -1,3 +1,17 @@
 .personalInformationMedia{
     font-size: 20px;
 }
+
+#jianshu{
+    width: 40px;
+    height: 22px;
+}
+
+#csdn{
+    width: 24px;
+    height: 24px;
+}
+
+div a img {
+    margin: 5px;
+}
