@@ -15,3 +15,10 @@
 div a img {
     margin: 5px;
 }
+
+
+canvas#live2dcanvas {
+    border: 0 !important;
+    right: 0; 
+    /* 修改动画在左右的位置 */
+    }    
